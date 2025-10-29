@@ -1,5 +1,7 @@
 # LiveSol — Instant Access to Experts. Pay-per-Minute. On Solana.
 
+![LiveSol Banner](https://github.com/abdilgapar/livesol/raw/main/1.png)  
+
 ---
 
 ## About the Project
@@ -25,7 +27,6 @@ Powered by **Solana**:
 
 ## How It Works
 
-```mermaid
 graph TD
     A[Connect Wallet] --> B[Top Up Escrow: SOL / USDC]
     B --> C[Choose Expert]
