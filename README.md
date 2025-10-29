@@ -1,38 +1,44 @@
-# LiveSol — Instant Access to Experts. Pay-per-Minute. On Solana.
+![LiveSol Banner](https://github.com/abdilgapar/livesol/blob/main/1.png)
 
-![LiveSol Banner](https://github.com/abdilgapar/livesol/raw/main/1.png)  
+# LiveSol
+
+LiveSol is a decentralized Web3 platform on Solana for instant pay‑as‑you‑talk video calls — available on both web and mobile.
+
+## Overview
+
+**MVP:** [https://live-sol.replit.app](https://live-sol.replit.app)
+**Pitch Deck:** [https://docs.google.com/presentation/d/1qGaDoL7ILolDih3VeQ9n0zeiU-BZtDsaTsVMDJ-1nUQ/edit?usp=sharing](https://docs.google.com/presentation/d/1qGaDoL7ILolDih3VeQ9n0zeiU-BZtDsaTsVMDJ-1nUQ/edit?usp=sharing)
+
+LiveSol allows users to instantly call influencers and experts at any moment and pay only for the actual call duration. Solana smart contracts handle real‑time settlement. Creators receive 92% of revenue immediately after the call.
+
+## Key Features
+
+* WebRTC video calls inside web and mobile interfaces
+* Escrow balance in SOL or USDC
+* Automatic split: 92% to creator / 8% to platform
+* No scheduling or prepayments — click → call → pay per minute
+* Transparent on‑chain transactions + KYC for creators
+
+## Who It's For
+
+* **Creators & experts:** instant and frictionless time monetization
+* **Users:** direct access to creators without intermediaries
+* **Web3 partners:** native integration with the Solana ecosystem
+
+## Tech Stack
+
+* Solana (smart contracts & settlement)
+* WebRTC (real‑time video calls)
+* Phantom / Solflare / other Solana wallets
+* USDC / SOL as payment tokens
+
+## Roadmap
+
+* Q1 2026 — closed beta with initial creators
+* Q2 2026 — UX/UI & infrastructure optimization
+* Q3 2026 — AI moderation & load testing
+* Q4 2026 — global launch
 
 ---
 
-## About the Project
-
-**LiveSol** is a **decentralized video call platform** connecting users with influencers, top experts, and mentors — where you **pay only for actual talk time** via **pay-as-you-talk**.
-
-Powered by **Solana**:  
-- **< 400 ms** transaction speed  
-- **< $0.01** per transaction  
-- **Instant withdrawals** — fully on-chain  
-
----
-
-## Who Is It For?
-
-| You — User | You — Expert |
-|-----------|-------------|
-| Need **instant advice** on business, product, code, or legal issues | Want to **monetize your time** without schedules or managers |
-| Willing to pay **only for real minutes**, not fixed slots | Set your rate: **$1–50 / minute** |
-| Want to **call right now** | Receive **92% of earnings instantly** to your wallet |
-
----
-
-## How It Works
-
-graph TD
-    A[Connect Wallet] --> B[Top Up Escrow: SOL / USDC]
-    B --> C[Choose Expert]
-    C --> D[Tap "Call Now"]
-    D --> E[Call Starts Instantly]
-    E --> F[Timer + Live Cost: $5.00 → $5.15 → ...]
-    F --> G[End Call]
-    G --> H[Payment by Fact: 92% → Expert, 8% → Platform]
-    H --> I[Remaining Balance — Yours. Withdraw Anytime]
+Documentation, architecture and build instructions coming soon.
