@@ -7,6 +7,7 @@ LiveSol is a decentralized Web3 platform on Solana for instant pay‑as‑you‑
 ## Overview
 
 **MVP:** [https://live-sol.replit.app](https://live-sol.replit.app)
+
 **Pitch Deck:** [https://docs.google.com/presentation/d/1qGaDoL7ILolDih3VeQ9n0zeiU-BZtDsaTsVMDJ-1nUQ/edit?usp=sharing](https://docs.google.com/presentation/d/1qGaDoL7ILolDih3VeQ9n0zeiU-BZtDsaTsVMDJ-1nUQ/edit?usp=sharing)
 
 LiveSol allows users to instantly call influencers and experts at any moment and pay only for the actual call duration. Solana smart contracts handle real‑time settlement. Creators receive 92% of revenue immediately after the call.
